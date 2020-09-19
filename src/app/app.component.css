@@ -1,0 +1,30 @@
+#calculator {
+    width:282px; 
+    height:410px;
+    background-color: black;
+}
+
+#calc-screen {
+    font-family: Helvetica;
+    font-size: 30px;
+    text-align:right;
+    width:282px;
+}
+
+.round-button {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+.zero-button {
+    width: 140px;
+}
+
+.black-text{
+    color:black;
+}
